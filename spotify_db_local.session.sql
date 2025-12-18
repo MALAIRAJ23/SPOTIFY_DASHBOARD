@@ -1,0 +1,3 @@
+SELECT DATABASE();
+SHOW TABLES;
+SELECT COUNT(*) FROM spotify_tracks;
